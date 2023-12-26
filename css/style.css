@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.window {
+    min-height: 800px;
+    width: 100%;
+    background-color: cyan;
+}
+
+.window_big {
+    min-height: 1024px
+}
